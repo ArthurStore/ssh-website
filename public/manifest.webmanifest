@@ -1,0 +1,19 @@
+{
+  "name": "Arthur WebSSH & SFTP",
+  "short_name": "Arthur SSH",
+  "description": "Web SSH Terminal, SFTP Manager, Realtime Resource Monitor & Multiplayer Mabar SSH",
+  "start_url": "/ssh",
+  "scope": "/ssh",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#060a10",
+  "theme_color": "#060a10",
+  "icons": [
+    {
+      "src": "/ssh/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
